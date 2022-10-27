@@ -1,2 +1,2 @@
 # Flagman
-My personal Python toolkits developed for CTF.
+Personal repo for CTF practice and toolkits.
