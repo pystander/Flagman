@@ -1,2 +1,2 @@
 # Flagman
-Personal repo for CTF practice and toolkits.
+Personal repo for own CTF practice.
